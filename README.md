@@ -7,7 +7,7 @@ https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 
 **Installation of Libraries**<br>
 The libraries used in this script are listed in the attached "requirements.txt" file.<br>
-You can install the libraries using the command "pip install".
+You can install them using the command "pip install -r requirements.txt".
 
 **2 arguments**<br>
 These two arguments are required to run the script:<br>
