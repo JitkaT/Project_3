@@ -1,10 +1,10 @@
 # Project_3
 Elections Scraper -> Python project in English
 
-**Project Description**
+**Project Description**<br>
 This project is designed to extract the results of the 2017 parliamentary elections. You can find the link to the website here.
 
-**Installation of Libraries**
+**Installation of Libraries**<br>
 The libraries used in this script are listed in the attached "requirements.txt" file.
 
 **2 arguments**
