@@ -6,9 +6,10 @@ This project is designed to extract the results of the 2017 parliamentary electi
 https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 
 **Installation of Libraries**<br>
-The libraries used in this script are listed in the attached "requirements.txt" file.
-Firstly it is necessary to create 
+The libraries used in this script are listed in the attached "requirements.txt" file.<br>
+You can install the libraries using the command "pip install".
 
-**2 arguments**
+**2 arguments**<br>
+These two arguments are required to run the script:<br>
 * URL of the territorial unit: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6201"
 * Name of the output file: "vysledky_Benesov.csv"
