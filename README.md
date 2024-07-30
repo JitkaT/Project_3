@@ -7,6 +7,7 @@ https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 
 **Installation of Libraries**<br>
 The libraries used in this script are listed in the attached "requirements.txt" file.
+Firstly it is necessary to create 
 
 **2 arguments**
 * URL of the territorial unit: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6201"
