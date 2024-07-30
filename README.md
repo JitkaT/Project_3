@@ -11,8 +11,8 @@ You can install them using the command "pip install -r requirements.txt".
 
 **2 arguments**<br>
 These two arguments are required to run the script:<br>
-* URL of the territorial unit: "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6201"
-* The output file: "vysledky_Benesov.csv"
+* URL of the territorial unit: "https://volby.cz/pls/ps2017nss/ps311?xjazyk=CZ&xkraj=12&xobec=589250&xvyber=7103"
+* The output file: "vysledky_Prostejov.csv"
 
 **Example Output**<br>
 After scraping the URL, the output will be saved to the CSV file.
